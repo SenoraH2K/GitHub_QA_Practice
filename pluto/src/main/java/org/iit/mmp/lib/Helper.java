@@ -9,6 +9,7 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 public class Helper {
+	//Checking up and down arrow
 
 	
 	public WebElement waitforElement(WebDriver driver,long secs,By by)
