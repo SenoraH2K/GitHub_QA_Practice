@@ -16,7 +16,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 public class BaseClass {
 	protected WebDriver driver;//default
 	protected Properties prop;
-	
+	//checking down arrow
 	@BeforeTest
 	public void readPropertyFile() throws IOException
 	{
